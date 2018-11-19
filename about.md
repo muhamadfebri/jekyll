@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: Posts
 title: About
 ---
 
@@ -10,6 +10,4 @@ Reasons:
 - its great.
 - its a test.
 
-## Other thoughts
 
-This is great.
