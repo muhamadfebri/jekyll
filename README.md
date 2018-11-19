@@ -1,16 +1,19 @@
 
-## SISTEM INFORMASI 2018
+# MUHAMAD FEBRI SAPUTRA
+## SISTEM INFORMASI
 ## UIN SUSKA RIAU
 
 
 Bismillaahirrahmaanirraahiim...
 
-Assalamu'alaikum...
-
-Nama saya Muhamad Febri Saputra, mahasiswa sistem informasi UIN Suska Riau. Tempat tinggal saya di Asrama Putra UIN Suska Riau. Saya berasal dari Tanjung Balai Karimun, Kepulauan Riau, Desa Pongkar Dusun Pelambung
-
+Nama saya Muhamad Febri Saputra, Mahasiswa Sistem Informasi Fakultas Sains dan Teknologi UIN Susks Riau
 Hobi saya :
 - Memanah
 - Bersepeda
 - Main game
 - Makan
+
+- Untuk mengetahui selengkapnya mengenai Jurusan Sistem Informasi UIN Suska Riau silahkan klik : http://sif.uin-suska.ac.id/
+- Untuk mengetahui selengkapnya mengenai UIN Suska Riau silahkan klik : http://uin-suska.ac.id/
+
+
