@@ -1,6 +1,6 @@
-# MUHAMAD FEBRI SAPUTRA
+
 ## SISTEM INFORMASI 2018
-### UIN SUSKA RIAU
+## UIN SUSKA RIAU
 
 
 Bismillaahirrahmaanirraahiim...
