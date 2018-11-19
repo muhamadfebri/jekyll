@@ -1,1 +1,12 @@
 
+# basic options
+title: My Awesome Blog
+author: Muhamad Febri Saputra
+email: kim.febry11@gmail.com
+description: Assalamualaikum, perkenalkan nama saya Muhamad Febri Saputra, saya mahasiswa Sistem Informasi UIN Suska Riau, dan sekarang saya semester 5
+twitter_username: jekyllrb
+github_username:  muhamadfebri
+
+# Build settings
+markdown: kramdown
+theme: minima
